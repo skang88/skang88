@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Seokgyun Kang.
 - 👀 I’m interested in data science, web application development, generative AI, and reinforcement learning.
 - 🌱 I’m currently learning Node.js, Next.js, Typescript, and React to develop web applications.
-- 💞️ I’m looking to collaborate on developing applications using maps.
+- 💞️ I’m looking to collaborate on developing applications using maps or reinforcement learning projects.
 - 📫 Please send me an email if you want to contact me. My email address is seokgyunk2@gmail.com
 
 <!---
